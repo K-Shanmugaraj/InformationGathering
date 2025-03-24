@@ -2,8 +2,8 @@
 
 # InformationGathering
 Information Gathering Techiques
-## NAME:Shanmuga Raj.K
-## Reg No: 212223040192
+### NAME:Shanmuga Raj.K
+### Reg No: 212223040192
 
 # To perform information gathering techniques
 
